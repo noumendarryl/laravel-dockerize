@@ -54,7 +54,7 @@ Please follow the instructions below carefully to setup this project on your mac
     php artisan key:generate
     ```
     
-   7. **Test the project :** 
+7. **Test the project :** 
    
     ```php
     php artisan serve
