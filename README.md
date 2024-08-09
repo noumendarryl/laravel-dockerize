@@ -1,6 +1,8 @@
 # Dockerizing Laravel Apps
 
-This is the demo project for my DevOps practice where you'll learn everything you need to know to dockerize Laravel apps.
+This is the demo project for my DevOps practice where you'll learn everything you need to know to dockerize Laravel apps. 
+
+The idea of this repo comes from an experience I recently had on a project where I had to dockerize a Laravel application some classmates and I were developing. At first time, I had no idea on how to do that, so I went through every resource I could find on YouTube, Google etc... but no one was clear enough for me so when I finally found how to do it, I decided to share it to everyone who might also be struggling with the dockerizing of Laravel apps.
 
 ## About this Project 
 
