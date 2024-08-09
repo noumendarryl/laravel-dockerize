@@ -6,7 +6,7 @@ The idea of this repo comes from an experience I recently had on a project where
 
 ## About this Project 
 
-This is a standard Laravel v11.20.0 app built following these specifications : 
+This is a standard Laravel app built following these specifications : 
 
 - PHP 8.3.9
 - Laravel 11.20.0
