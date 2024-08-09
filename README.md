@@ -85,4 +85,4 @@ For any questions or support, please email us at:
 
 - **NOUMEN NJOCHA Darryl**: [noumendarryl@gmail.com](mailto:noumendarryl@gmail.com)
 
-You can also raise an issue in the [GitHub issue tracker](https://github.com/https://github.com/noumendarryl/laravel-dockerize/issues) for this project.
+You can also raise an issue in the [GitHub issue tracker](https://github.com/noumendarryl/laravel-dockerize/issues) for this project.
