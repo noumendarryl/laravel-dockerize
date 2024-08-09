@@ -60,7 +60,7 @@ Please follow the instructions below carefully to setup this project on your mac
     php artisan serve
     ```
     
-## Running the Docker compose file
+## Running the Docker container
 
 Now that you have successfully set up the project and configured your environment variables, you can dockerize the Laravel project using the following commands:
 
