@@ -6,10 +6,11 @@ The idea of this repo comes from an experience I recently had on a project where
 
 ## About this Project 
 
-This is a standard Laravel app built following these specifications : 
+This is a default Laravel app (without any third-party librairies installed) built following these specifications : 
 
 - PHP 8.3.9
 - Laravel 11.20.0
+- Composer 2.7.7
 
 Please follow the instructions below carefully to setup this project on your machine. 
 
