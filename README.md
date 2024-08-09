@@ -78,3 +78,11 @@ This will start the back-end process at `http://localhost:8000`. If port 8000 is
 
 - .env
 - .env.example
+
+## 📞 Contact Information
+
+For any questions or support, please email us at:
+
+- **NOUMEN NJOCHA Darryl**: [noumendarryl@gmail.com](mailto:noumendarryl@gmail.com)
+
+You can also raise an issue in the [GitHub issue tracker](https://github.com/https://github.com/noumendarryl/laravel-dockerize/issues) for this project.
