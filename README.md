@@ -60,7 +60,7 @@ Please follow the instructions below carefully to setup this project on your mac
     php artisan serve
     ```
     
-## Running the Docker container
+## Running the Docker container(s)
 
 Now that you have successfully set up the project and configured your environment variables, you can dockerize the Laravel project using the following commands:
 
@@ -79,7 +79,7 @@ This will start the back-end process at `http://localhost:8000`. If port 8000 is
 - .env
 - .env.example
 
-## 📞 Contact Information
+## Contact Information
 
 For any questions or support, please email us at:
 
